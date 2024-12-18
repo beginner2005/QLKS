@@ -1,0 +1,35 @@
+﻿  BanDoc.cpp
+  DanhSachBanDoc.cpp
+  DanhSachNhanVien.cpp
+  DanhSachPhieuMuon.cpp
+  DanhSachSach.cpp
+  Header.cpp
+D:\---Học Tập\Lập trình\C++\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\Header.cpp(47,9): warning C4244: 'return': conversion from 'time_t' to 'long', possible loss of data
+D:\---Học Tập\Lập trình\C++\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\Header.cpp(66,15): warning C4244: 'return': conversion from 'time_t' to 'long', possible loss of data
+  LinkedList.cpp
+  Main.cpp
+  NhanVien.cpp
+  Node.cpp
+  PhieuMuon.cpp
+D:\---Học Tập\Lập trình\C++\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\PhieuMuon.cpp(11,17): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+D:\---Học Tập\Lập trình\C++\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\PhieuMuon.cpp(11,17): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+D:\---Học Tập\Lập trình\C++\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\PhieuMuon.cpp(11,17): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+D:\---Học Tập\Lập trình\C++\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\PhieuMuon.cpp(11,17): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+D:\---Học Tập\Lập trình\C++\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\PhieuMuon.cpp(11,17): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+D:\---Học Tập\Lập trình\C++\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\PhieuMuon.cpp(11,17): warning C4566: character represented by universal-character-name '\u1EB7' cannot be represented in the current code page (1252)
+D:\---Học Tập\Lập trình\C++\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\PhieuMuon.cpp(11,17): warning C4566: character represented by universal-character-name '\u1EC1' cannot be represented in the current code page (1252)
+D:\---Học Tập\Lập trình\C++\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\PhieuMuon.cpp(11,17): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1252)
+D:\---Học Tập\Lập trình\C++\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\PhieuMuon.cpp(11,17): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\---Học Tập\Lập trình\C++\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\PhieuMuon.cpp(7,26): warning C4101: 'hour': unreferenced local variable
+D:\---Học Tập\Lập trình\C++\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\PhieuMuon.cpp(7,31): warning C4101: 'min': unreferenced local variable
+D:\---Học Tập\Lập trình\C++\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\PhieuMuon.cpp(48,17): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+D:\---Học Tập\Lập trình\C++\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\PhieuMuon.cpp(48,17): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+D:\---Học Tập\Lập trình\C++\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\PhieuMuon.cpp(48,17): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+D:\---Học Tập\Lập trình\C++\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\PhieuMuon.cpp(48,17): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+D:\---Học Tập\Lập trình\C++\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\PhieuMuon.cpp(53,17): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+D:\---Học Tập\Lập trình\C++\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\PhieuMuon.cpp(53,17): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+D:\---Học Tập\Lập trình\C++\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\PhieuMuon.cpp(53,17): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+D:\---Học Tập\Lập trình\C++\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\PhieuMuon.cpp(53,17): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+  Sach.cpp
+  Generating Code...
+  QuanLiThuVien.vcxproj -> D:\---Học Tập\Lập trình\C++\QuanLiThuVien\QuanLiThuVien\QuanLiThuVien\x64\Debug\QuanLiThuVien.exe
